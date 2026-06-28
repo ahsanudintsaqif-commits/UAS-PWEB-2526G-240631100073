@@ -18,4 +18,4 @@
 4. Akses aplikasi melalui browser dengan mengetikkan alamat `http://localhost/UAS-PWEB-240631100073/`.
 
 ---
-*Pernyataan GenAI: Proyek ini dikembangkan dengan asistensi piranti Kecerdasan Artifisial (GenAI) untuk optimasi komponen visual interface dan pemetaan skrip backend CRUD PHP Native.*
+*Pernyataan GenAI: Proyek ini dikembangkan dengan asistensi piranti Kecerdasan Artifisial (GenAI) untuk optimasi komponen visual interface dan pemetaan skrip backend CRUD PHP Native.*. 
